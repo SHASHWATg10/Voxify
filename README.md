@@ -1,4 +1,4 @@
-# voxify
+# Voxify
 
 A new Flutter project.
 
